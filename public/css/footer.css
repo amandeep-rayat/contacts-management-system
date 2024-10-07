@@ -1,0 +1,33 @@
+footer {
+    bottom: 0;
+    position: relative;
+    background-color: #4caf50;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.footer-container p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.footer-nav {
+    margin-top: 10px;
+}
+
+.footer-nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-nav a:hover {
+    text-decoration: underline;
+}
+
+.conti{
+    flex: 1; /* Expands to take remaining space */
+    overflow-y: auto;
+}

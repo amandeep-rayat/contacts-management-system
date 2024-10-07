@@ -1,0 +1,28 @@
+form input,
+form textarea {
+    width: -webkit-fill-available;
+    font: 1em sans-serif;
+    padding: 10px 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.center {
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.normal {
+    background-color: #d6d6d6;
+    border-radius: 4px;
+    color: #333;
+}
+
+.normal:hover {
+    background-color: #313131;
+    color: white;
+}
