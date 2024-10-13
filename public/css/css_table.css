@@ -34,8 +34,7 @@ select:hover {
 }
 
 .pagination {
-    display: inline-block;
-    margin: 25px 0;
+    display: inline-flex;
     text-align: center;
 }
 

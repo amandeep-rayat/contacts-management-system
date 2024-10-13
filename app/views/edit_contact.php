@@ -20,7 +20,7 @@
 
     <button type="submit">Update</button>
 
-    <button type="reset" class="normal">Clear</button>
+    <button type="reset" class="normal">Reset</button>
 
     <a href="/contacts-management-system/public/"><button type="button" class="normal">Cancel</button></a>
 </form>
